@@ -1,0 +1,47 @@
+[
+  {
+    "proveedorId": "1",
+    "producto": "Call of duty Moder Warfare 3",
+    "cantidad": 12,
+    "estado": "Pendiente",
+    "metodoDePago": "Tarjeta",
+    "id": 1,
+    "nombreProveedor": "Treyarch"
+  },
+  {
+    "proveedorId": "2",
+    "producto": "The Legend of Zelda: Breath of the Wild",
+    "cantidad": 32,
+    "estado": "Pendiente",
+    "metodoDePago": "Tarjeta",
+    "id": 2,
+    "nombreProveedor": "Rockstar Games"
+  },
+  {
+    "proveedorId": "2",
+    "producto": "Call of duty Moder Warfare 3",
+    "cantidad": 1212,
+    "estado": "Pendiente",
+    "metodoDePago": "Efectivo",
+    "id": 3,
+    "nombreProveedor": "Rockstar Games"
+  },
+  {
+    "proveedorId": "3",
+    "producto": "Nintendo Switch Lite",
+    "cantidad": 1,
+    "estado": "Pendiente",
+    "metodoDePago": "Efectivo",
+    "id": 4,
+    "nombreProveedor": "Nintendo"
+  },
+  {
+    "proveedorId": "4",
+    "producto": "Valorant",
+    "cantidad": 30,
+    "estado": "Pendiente",
+    "metodoDePago": "Tarjeta",
+    "id": 5,
+    "nombreProveedor": "Riot Games"
+  }
+]

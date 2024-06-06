@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Treyarch",
+    "contacto": "contacto@treyarch.com",
+    "direccion": "Dirección de Treyarch",
+    "terminos_pago": "Tarjeta",
+    "costo_producto": 30,
+    "cantidad_disponible": 23,
+    "imagen": "https://yt3.googleusercontent.com/ytc/AIdro_mWSBLHKRPr1UG2IPjC5FYDWgccxHrjFdJ4_RWEZA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "id": 2,
+    "nombre": "Rockstar Games",
+    "contacto": "contacto@rockstargames.com",
+    "direccion": "Dirección de Rockstar Games",
+    "terminos_pago": "Tarjeta",
+    "costo_producto": 50,
+    "cantidad_disponible": 200,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Rockstar_Games_Logo.svg/1200px-Rockstar_Games_Logo.svg.png"
+  },
+  {
+    "nombre": "Nintendo",
+    "contacto": "contacto@nitendo.com",
+    "direccion": "Ciudad de Nintendo",
+    "terminos_pago": "Transacción",
+    "costo_producto": "10",
+    "cantidad_disponible": "20",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Nintendo.svg/2560px-Nintendo.svg.png",
+    "id": 3
+  },
+  {
+    "nombre": "Riot Games",
+    "contacto": "contacto@riot.com",
+    "direccion": "Empresa indie",
+    "terminos_pago": "Transacción",
+    "costo_producto": "30",
+    "cantidad_disponible": "40",
+    "imagen": "https://esportsbureau.com/wp-content/uploads/2022/02/riot-games-revela-su-nuevo-logo.jpeg",
+    "id": 4
+  }
+]
